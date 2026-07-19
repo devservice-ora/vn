@@ -33,7 +33,7 @@ The files are structured chronologically and categorized by their publication co
 *   [**Lần Cuối Gặp Bạn**](https://github.com/devservice-ora/vn/blob/main/2017-6-Nguyen%20Thi%20Vai-Lan%20Cuoi%20Gap%20Ban.pdf) — *Nguyễn Thị Mai: Lần Cuối Gặp Bạn* (The Last Time Meeting My Friend) - June 2017
 
 #### 2018
-*   [**Ơn Chúa Qua Một Quãng Đường Đời**](https://github.com/devservice-ora/vn/blob/main/2018-On Chua Qua Mot Quang Duong Doi.pdf) — *Ơn Chúa Qua Một Quãng Đường Đời* (God's Grace Throughout a Lifetime) - 2018
+*   [**Ơn Chúa Qua Một Quãng Đường Đời**](https://github.com/devservice-ora/vn/blob/main/2018-On%20Chua%20Qua%20Mot%20Quang%20Duong%20Doi.pdf) — *Ơn Chúa Qua Một Quãng Đường Đời* (God's Grace Throughout a Lifetime) - 2018
 *   [**Phản Ánh Niềm Tin và Hy Vọng**](https://github.com/devservice-ora/vn/blob/main/2015-9-BTU-Xay%20Dung%20Dao%20Duc%20Ca%20Nhan.pdf) — *Phản Ánh Niềm Tin và Hy Vọng* (Reflecting Faith and Hope) - 2018
 
 #### 2019
