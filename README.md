@@ -27,7 +27,7 @@ The files are structured chronologically and categorized by their publication co
 #### 2015
 *   [**Dòng Dõi Thánh**](https://github.com/devservice-ora/vn/blob/main/2015-2-BTU-Dong%20Doi%20Thanh.pdf) — *Dòng Dõi Thánh* (Holy Lineage) - February 2015
 *   [**Ăn Mặc Chỉnh Tề Khi Tham Dự Thánh Lễ**](https://github.com/devservice-ora/vn/blob/main/2015-6-BTU-An%20Mac%20Chinh%20Te%20Khi%20Tam%20Du%20Thanh%20Le.pdf) — *Ăn Mặc Chỉnh Tề Khi Tham Dự Thánh Lễ* (Dressing Properly When Attending Mass) - June 2015
-*   [**Xây Dựng Đạo Đức Cá Nhân**](https://github.com/devservice-ora/vn/blob/main/2015-9-BTU-Xay Dung Dao Duc Ca Nhan.pdf) — *Xây Dựng Đạo Đức Cá Nhân* (Building Personal Morality - Bản Tin Úc) - September 2015
+*   [**Xây Dựng Đạo Đức Cá Nhân**](https://github.com/devservice-ora/vn/blob/main/2015-9-BTU-Xay%20Dung%20Dao%20Duc%20Ca%20Nhan.pdf) — *Xây Dựng Đạo Đức Cá Nhân* (Building Personal Morality) - September 2015
 
 #### 2017
 *   [**Lần Cuối Gặp Bạn**](https://github.com/devservice-ora/vn/blob/main/2017-6-Nguyen%20Thi%20Vai-Lan%20Cuoi%20Gap%20Ban.pdf) — *Nguyễn Thị Mai: Lần Cuối Gặp Bạn* (The Last Time Meeting My Friend) - June 2017
