@@ -1,4 +1,4 @@
-# Archive of Vietnamese Articles & Essays (2012 - 2023)
+# Archive of Vietnamese Articles & Essays
 
 This repository contains a curated collection of Vietnamese essays, articles, and special features (*Đặc San* / *Bản Tin Ultreya*) spanning from 2012 to 2023. The collection focuses primarily on themes of faith (*Đức Tin*), prayer, personal ethics, community memories, and Catholic life/etiquette.
 
