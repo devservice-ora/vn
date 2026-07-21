@@ -18,6 +18,10 @@ The files are structured chronologically and categorized by their publication co
 *   [**Sống Đức Tin Trong Các Môi Trường**](https://github.com/devservice-ora/vn/blob/main/2013-3-Song%20Duc%20Tin%20Trong%20Cac%20Moi%20Truong.pdf) — *Sống Đức Tin Trong Các Môi Trường* (Living Faith in Various Environments) - March 2013
 *   [**Sống Lời Cầu Nguyện**](https://github.com/devservice-ora/vn/blob/main/2013-6-Song%20Loi%20Cau%20Nguyen.pdf) — *Sống Lời Cầu Nguyện* (Living the Prayer) - June 2013
 *   [**Một Thách Đố**](https://github.com/devservice-ora/vn/blob/main/2013-9-Mot%20Thach%20Do.pdf) — *Một Thách Đố* (A Challenge) - September 2013
+*   [**Cha tôi – Người Hùng Thầm Lặng**](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "Related to life philosophy and values") — *My Father My Unsung Hero* published in The Valley Catholic - August 2013    
+*   [**This I believe by SPham**](https://github.com/devservice-ora/articles/blob/main/SPham-This%20I%20Believe-Published%20%20in%20The%20Valley%20Catholic.pdf) — *This I Believe* published in The Valley Catholic - September 2013
+*   [**This I believe by BPham**](https://github.com/devservice-ora/articles/blob/main/BPham-This%20I%20Believe-Published%20%20in%20The%20Valley%20Catholic.pdf) — *This I Believe* published in The Valley Catholic - October 2013
+   
 
 #### 2014
 *   [**Uy Tín**](https://github.com/devservice-ora/vn/blob/main/2014-4-Uy%20Tin-Uy%20Tin.pdf) — *Uy Tín* (Prestige / Credibility) - April 2014
