@@ -8,9 +8,6 @@ The files are structured chronologically and categorized by their publication co
 
 ### 📅 Chronological Listing
 
-#### 2009
-*   [**MY TWENTY-FIVE YEARS MEMOIR Ca Đoàn Đồng Tâm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *MY TWENTY-FIVE YEARS MEMOIR* Ca Đoàn Đồng Tâm - August 2009
-
 #### 2012
 *   [**Một Bài Kiểm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *Một Bài Kiểm* (An Exam / A Test) - April 2012
 
@@ -51,6 +48,9 @@ The files are structured chronologically and categorized by their publication co
 
 #### 2023
 *   [**Đức Tin Trong Biến Cố Cuộc Đời**](https://github.com/devservice-ora/vn/blob/main/2023-DAC%20SAN%2035-Duc%20Tin%20Trong%20Bien%20Co%20Cuoc%20Doi.pdf) — *Đức Tin Trong Biến Cố Cuộc Đời* (Faith Amidst Life's Overwhelming Events - 35th Anniversary Special Issue) - 2023
+
+#### MEMOIR
+*   [**MY TWENTY-FIVE YEARS MEMOIR Ca Đoàn Đồng Tâm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *MY TWENTY-FIVE YEARS MEMOIR* Ca Đoàn Đồng Tâm - August 2009
 
 ---
 
