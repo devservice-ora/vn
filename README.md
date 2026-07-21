@@ -1,6 +1,7 @@
 # Archive of Vietnamese Articles & Essays
 
-This repository contains a curated collection of Vietnamese essays, articles, and special features (*Đặc San* / *Bản Tin Ultreya*) spanning from 2009 to 2023. The collection focuses primarily on themes of faith (*Đức Tin*), prayer, personal ethics, community memories, and Catholic life/etiquette.
+This **[GitHub](https://github.com/devservice-ora)** project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. 
+It contains a curated collection of Vietnamese essays, articles, and special features (*Đặc San* / *Bản Tin Ultreya*) spanning from 2009 to 2023. The collection focuses primarily on themes of faith (*Đức Tin*), prayer, personal ethics, community memories, and Catholic life/etiquette.
 
 ## 📂 File Organization & Index
 
