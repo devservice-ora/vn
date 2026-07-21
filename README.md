@@ -9,7 +9,7 @@ The files are structured chronologically and categorized by their publication co
 ### 📅 Chronological Listing
 
 #### 2012
-*   [**Một Bài Kiểm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *Một Bài Kiểm* (An Exam / A Test) - April 2012
+*   [**Một Bài Kiểm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *Một Bài Kiểm* published in the OLOLV Bulletin, SJ in the Year of Faith 2012-2013 - April 2012
 
 #### 2013
 *   [**Sống Đức Tin Trong Các Môi Trường**](https://github.com/devservice-ora/vn/blob/main/2013-3-Song%20Duc%20Tin%20Trong%20Cac%20Moi%20Truong.pdf) — *Sống Đức Tin Trong Các Môi Trường* (Living Faith in Various Environments) - March 2013
