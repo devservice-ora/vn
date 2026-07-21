@@ -9,7 +9,7 @@ The files are structured chronologically and categorized by their publication co
 ### 📅 Chronological Listing
 
 #### 2012
-*   [**Một Bài Kiểm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *Một Bài Kiểm* (A Test) published in the OLOLV Bulletin, SJ in the Year of Faith 2012-2013 - April 2012
+*   [**Một Bài Kiểm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *Một Bài Kiểm* (A Test) published in the [OLOLV Bulletin](https://github.com/devservice-ora/vn/blob/main/2012-10-14-ThongTin-NamDucTin-So-01.pdf) in the Year of Faith 2012-2013 - October 2012
 
 #### 2013
 *   [**Sống Đức Tin Trong Các Môi Trường**](https://github.com/devservice-ora/vn/blob/main/2013-3-Song%20Duc%20Tin%20Trong%20Cac%20Moi%20Truong.pdf) — *Sống Đức Tin Trong Các Môi Trường* (Living Faith in Various Environments) - March 2013
@@ -56,6 +56,7 @@ The files are structured chronologically and categorized by their publication co
 
 ## 🏷️ Key Suffixes & Abbreviations Guide
 
+*   **OLOLV Newsletter/Bulletin (*Chúa Trong Cuộc Đời*)**: Special addition for the Year of Faith 2012-2013.
 *   **BTU (*Bản Tin Altreya*)**: Cursillo Newsletter/Bulletin editions.
 *   **KY25**: 25th Anniversary Special Commemorative Edition (*Kỷ Niệm 25 Năm*).
 *   **DAC SAN 35**: 35th Anniversary Special Magazine (*Đặc San 35 Năm*).
