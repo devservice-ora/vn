@@ -1,12 +1,15 @@
 # Archive of Vietnamese Articles & Essays
 
-This repository contains a curated collection of Vietnamese essays, articles, and special features (*Đặc San* / *Bản Tin Ultreya*) spanning from 2012 to 2023. The collection focuses primarily on themes of faith (*Đức Tin*), prayer, personal ethics, community memories, and Catholic life/etiquette.
+This repository contains a curated collection of Vietnamese essays, articles, and special features (*Đặc San* / *Bản Tin Ultreya*) spanning from 2009 to 2023. The collection focuses primarily on themes of faith (*Đức Tin*), prayer, personal ethics, community memories, and Catholic life/etiquette.
 
 ## 📂 File Organization & Index
 
 The files are structured chronologically and categorized by their publication contexts.
 
 ### 📅 Chronological Listing
+
+#### 2009
+*   [**MY TWENTY-FIVE YEARS MEMOIR Ca Đoàn Đồng Tâm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *MY TWENTY-FIVE YEARS MEMOIR* Ca Đoàn Đồng Tâm - August 2009
 
 #### 2012
 *   [**Một Bài Kiểm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *Một Bài Kiểm* (An Exam / A Test) - April 2012
