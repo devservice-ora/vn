@@ -18,6 +18,7 @@ The files are structured chronologically and categorized by their publication co
 *   [**Một Thách Đố**](https://github.com/devservice-ora/vn/blob/main/2013-9-Mot%20Thach%20Do.pdf) — *Một Thách Đố* (A Challenge) - September 2013
 *   [**Cha tôi – Người Hùng Thầm Lặng**](https://github.com/devservice-ora/articles/blob/main/JPham-My%20Father%20My%20Unsung%20Hero-Published%20%20in%20The%20Valley%20Catholic.pdf "Related to life philosophy and values") — *My Father My Unsung Hero* published in The Valley Catholic - August 2013    
 *   [**This I believe by SPham**](https://github.com/devservice-ora/articles/blob/main/SPham-This%20I%20Believe-Published%20%20in%20The%20Valley%20Catholic.pdf) — *This I Believe* published in The Valley Catholic - September 2013
+*   [**The time is right to do what is right by SPham**](https://github.com/devservice-ora/vn/blob/main/2012-The%20time%20is%20right%20to%20do%20what%20is%20right.pdf) — *Đã đến lúc thích hợp để làm điều đúng đắn* (6th grade in-class assignment), Carolyn Clark School - 2012
 *   [**This I believe by BPham**](https://github.com/devservice-ora/articles/blob/main/BPham-This%20I%20Believe-Published%20%20in%20The%20Valley%20Catholic.pdf) — *This I Believe* published in The Valley Catholic - October 2013
    
 
