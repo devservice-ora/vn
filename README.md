@@ -40,7 +40,7 @@ The files are structured chronologically and categorized by their publication co
 
 #### 2018
 *   [**Ơn Chúa Qua Một Quãng Đường Đời**](https://github.com/devservice-ora/vn/blob/main/2018-On%20Chua%20Qua%20Mot%20Quang%20Duong%20Doi.pdf) — *Ơn Chúa Qua Một Quãng Đường Đời* (God's Grace Throughout a Lifetime) - 2018
-*   [**Phản Ánh Niềm Tin và Hy Vọng**](https://github.com/devservice-ora/vn/blob/main/2015-9-BTU-Xay%20Dung%20Dao%20Duc%20Ca%20Nhan.pdf) — *Phản Ánh Niềm Tin và Hy Vọng* (Reflecting Faith and Hope) - 2018
+*   [**Phản Ánh Niềm Tin và Hy Vọng**](https://github.com/devservice-ora/vn/blob/main/2018-Phan%20Anh%20Niem%20Tin%20va%20Hy%20Vong.pdf) — *Phản Ánh Niềm Tin và Hy Vọng* (Reflecting Faith and Hope) - 2018
 
 #### 2019
 *   [**Đường Tới Camp St. Francis**](https://github.com/devservice-ora/vn/blob/main/2019-9-BTU-Duong%20Toi%20Camp%20St%20Francis.pdf) — *Đường Tới Camp St. Francis* (The Road to Camp St. Francis) - September 2019
