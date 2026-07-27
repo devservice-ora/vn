@@ -52,7 +52,7 @@ The files are structured chronologically and categorized by their publication co
 *   [**Đức Tin Trong Biến Cố Cuộc Đời**](https://github.com/devservice-ora/vn/blob/main/2023-DAC%20SAN%2035-Duc%20Tin%20Trong%20Bien%20Co%20Cuoc%20Doi.pdf) — *Đức Tin Trong Biến Cố Cuộc Đời* (Faith Amidst Life's Overwhelming Events - 35th Anniversary Special Issue) - 2023
 
 #### MEMOIR
-*   [**MY TWENTY-FIVE YEARS MEMOIR Ca Đoàn Đồng Tâm**](https://github.com/devservice-ora/vn/blob/main/2012-4-Mot%20Bai%20Kiem.pdf) — *MY TWENTY-FIVE YEARS MEMOIR* Ca Đoàn Đồng Tâm - August 2009
+*   [**My Twenty Five Years Memoir - Ca Đoàn Đồng Tâm**](https://github.com/devservice-ora/vn/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf) — *Ca Đoàn Đồng Tâm* Twenty Five Years - August 2009
 
 ---
 
