@@ -46,7 +46,7 @@ The files are structured chronologically and categorized by their publication co
 *   [**Đường Tới Camp St. Francis**](https://github.com/devservice-ora/vn/blob/main/2019-9-BTU-Duong%20Toi%20Camp%20St%20Francis.pdf) — *Đường Tới Camp St. Francis* (The Road to Camp St. Francis) - September 2019
 
 #### 2022
-*   [**Bỏ Ngài Con Biết Theo Ai**](https://github.com/devservice-ora/vn/blob/main/2022-12-BTU-Bo%20Ngai%20Con%20Biet%20Theo%20Ai.pdf) — *Bỏ Ngài Con Biết Theo Ai* (Lord, to Whom Shall I Go?) - December 2022
+*   [**Bỏ Ngài Con Biết Theo Ai**](https://github.com/devservice-ora/vn/blob/main/2022-12-BTU-Bo%20Ngai%20Con%20Biet%20Theo%20Ai.pdf) — *Bỏ Ngài Con Biết Theo Ai* (Lord, to Whom Shall I Follow?) - December 2022
 
 #### 2023
 *   [**Đức Tin Trong Biến Cố Cuộc Đời**](https://github.com/devservice-ora/vn/blob/main/2023-DAC%20SAN%2035-Duc%20Tin%20Trong%20Bien%20Co%20Cuoc%20Doi.pdf) — *Đức Tin Trong Biến Cố Cuộc Đời* (Faith Amidst Life's Overwhelming Events - 35th Anniversary Special Issue) - 2023
