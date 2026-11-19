@@ -1,6 +1,6 @@
 # Archive of Vietnamese Articles & Essays
 
-This **[GitHub](https://github.com/devservice-ora)** project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. This archive features a curated collection of essays, articles, and feature pieces (*Nhật Ký*, *Đặc San*, *Bản Tin Ultreya*, etc.) in my native Vietnamese that have brought about an unexpected and mysterious transformation in my life and ideals since 2012. The main content revolves around themes of transformation in faith (*Đức Tin*), prayer life, personal ethics, and communal memories.
+This **[GitHub](https://github.com/devservice-ora)** project, *2026*, was created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**. This archive features a curated collection of essays, articles, and feature pieces (*Nhật Ký*, *Đặc San*, *Bản Tin Ultreya*, etc.) in my native Vietnamese that have brought about an unexpected and mysterious transformation in my life and ideals. The main content revolves around themes of transformation in faith (*Đức Tin*), prayer life, personal ethics, and communal memories.
 
 ## 📂 File Organization & Index
 
@@ -51,7 +51,7 @@ The files are structured chronologically and categorized by their publication co
 *   [**Đức Tin Trong Biến Cố Cuộc Đời**](https://github.com/devservice-ora/vn/blob/main/2023-DAC%20SAN%2035-Duc%20Tin%20Trong%20Bien%20Co%20Cuoc%20Doi.pdf) — *Đức Tin Trong Biến Cố Cuộc Đời* (Faith Amidst Life's Overwhelming Events - 35th Anniversary Special Issue) - 2023
 
 #### 2026
-*   [**Suy Ngẫm Về Lòng Sùng Đạo**](https://github.com/devservice-ora/vn/blob/main/2026-Suy_Ngam_Ve_Long_Sung_Dao.pdf) — *Reflections on the journey of faith and devotion* - Suy ngẫm về hành trình đức tin và lòng sùng đạo qua các bài viết được lưu trữ và tổng kết qua nhiều năm - November 2026
+*   [**Suy Ngẫm Về Lòng Sùng Đạo**](https://github.com/devservice-ora/vn/blob/main/2026-Suy_Ngam_Ve_Long_Sung_Dao.pdf) — *Reflections on Religious Devotion* - Suy ngẫm về hành trình đức tin và lòng sùng đạo qua các bài viết được lưu trữ và tổng kết qua tháng năm - November 2026
 
 #### Memoirs with the Ca Đoàn Đồng Tâm Choir
 *   [**My Twenty Five Years Memoir - Ca Đoàn Đồng Tâm**](https://github.com/devservice-ora/vn/blob/main/My%20Twenty-Five%20Years%20Memoir.pdf) — *Ca Đoàn Đồng Tâm* Twenty Five Years - August 2009
